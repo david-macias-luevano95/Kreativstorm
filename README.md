@@ -1,11 +1,12 @@
-### Kreativstorm 
+# Kreativstorm 
 ## Trainig hand-on program 
 trainig program divide in 5 weeks were practice concepts fundamentals and practice complex problems daylry 
-# Week 1
-Duriong this week star practice with conditional, error handling problems for detect diferents types of errors and how implement in the code
+### Week 1
+During this week star practice with conditional, error handling problems, for detect diferents types of errors and how implement in the code
 proyect euler resolb diferent problems like fibonacci sequence and practice diferent matematical operations 
 
-In this practice review the conditional and resolve diferent problems using the most using functions
+In this practice review 5 ejercise for practice diferent situation in conditional  
+1. Write a program that prompts the user for a string and checks whether the string is a palindrome (i.e., the string reads the same forward and backward).
 ```   
 def main():
     value = input('Give my a string')
@@ -17,8 +18,29 @@ def main():
 
 ```
 
+2. Write a program that takes in a list of integers and returns the sum of all even numbers in the list.
+```
+def even_number(numbers):
+    evencount = 0
+    for i in numbers:
+        if i % 2==0:
+            evencount =+ i
+    return evencount
+    
+list_of_integers = [1,2,3,4,5,66,64,2]
+
+result = even_number(list_of_integers)
+
+print( "result for sum of numbers: ", result )    
+```
 
 
+3. Write a program that prompts the user for their age and checks whether they are old enough to vote (i.e., 18 years old or older).
+
+
+4. Write a program that takes in a list of integers and returns the largest number in the list that is also divisible by 3.
+
+5. Write a program that prompts the user for a number and checks whether the number is a prime number (i.e., only divisible by 1 and itself).
 
 
 
