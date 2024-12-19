@@ -1,7 +1,14 @@
 # Kreativstorm 
 ## Trainig hand-on program 
 trainig program divide in 5 weeks were practice concepts fundamentals and practice complex problems daylry 
-### Week 1
+###  [Week1](#1-week1)
+###  [Week2](#2-week2)
+###  [Week3](#3-week3)
+###  [Week4](#4-week4)
+###  [Week5](#5-week5)
+
+
+## 1. Week1
 During this week star practice with conditional, error handling problems, for detect diferents types of errors and how implement in the code
 proyect euler resolb diferent problems like fibonacci sequence and practice diferent matematical operations 
 
@@ -72,7 +79,7 @@ for i in range(1, number):
 
 
 
-# Week 2
+## 2. Week2
 Duriong this week practice whith diferent typees of data 
 
 ## For loops
@@ -106,5 +113,6 @@ while True:
 
 ## Automate Email Sending
 
-# Week 3
-# Week 4
+## 3. Week3
+## 4. Week4
+## 5. Week5
